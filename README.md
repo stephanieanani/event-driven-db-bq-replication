@@ -1,4 +1,4 @@
-# event-driven-db-bq-replication
+# Event Driven Replication from CloudSQL to BigQuery
 
 This repository details of execting this architecture:
 
