@@ -1,0 +1,6 @@
+resource.type="cloudsql_database"
+proto_payload.request.statement:"INSERT"
+log_name="projects/bq-db-383212/logs/cloudaudit.googleapis.com%2Fdata_access"
+severity=INFO
+resource.labels.project_id="bq-db-383212"
+resource.labels.database_id="bq-db-383212:customer-db"
